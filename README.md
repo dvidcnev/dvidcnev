@@ -3,7 +3,7 @@
 <ul>
   <li>⭐ Interested in developing software apps and full-stack websites</li>
   <li>🔭 Computer Science student at UP FAMNIT</li>
-  <li>📥 Contact me by <a href="mailto:david.chonev10@gmail.com">Email</a></li>
+  <li>📥 Contact me by <a href="mailto:david.chonev10@gmail.com">e-mail</a></li>
 </ul>
 
 ![pv](https://pageview.vercel.app/?github_user=dvidcnev)</p>
